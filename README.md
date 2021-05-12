@@ -1,2 +1,2 @@
-# census_name_identifier
-The following file is used to generate a ML classifier using the 1930 Deccenial census 5% sample. 
+# Introduction
+The following repository is home of a ML classifier based on the 1930 Deccenial Census 5% sample. 
