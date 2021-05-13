@@ -1,2 +1,2 @@
 # Introduction
-The following repository is home of a ML classifier based on the 1930 Deccenial Census 5% sample. 
+The following repository is home of a ML classifier based on the 1930 Deccenial Census 5% sample. Historical documents often times lack important demographic information on its subjects. Differences in naming practices and frequency of names across ethnic groups allows us to infer the ethnicity from someone's name. This can allow us to investigate historical discrimination with relatively little infromation. 
